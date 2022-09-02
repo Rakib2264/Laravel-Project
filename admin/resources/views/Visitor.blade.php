@@ -20,7 +20,6 @@
 				<td>{{$VisitorData->visit_time}}</td>
             </tr>
 		    @endforeach
-
   </tbody>
 </table>
 
